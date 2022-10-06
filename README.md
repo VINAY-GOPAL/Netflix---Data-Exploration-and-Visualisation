@@ -1,4 +1,4 @@
-# Netflix---Data-Exploration-and-Visualisation
+# Netflix---Data-Exploration-and-Visualisation(EDA)
 
 Netflix - Data Exploration and Visualisation
 
